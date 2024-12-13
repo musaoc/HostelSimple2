@@ -1,4 +1,5 @@
-﻿using HostelSimple2.Models;
+//This is Umair Nazar.
+using HostelSimple2.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
