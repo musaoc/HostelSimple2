@@ -27,6 +27,8 @@ namespace HostelSimple2.Controllers
             return View();
         }
 
+        // here edited and push by umair
+
         // POST: Student/Create
         [HttpPost]
         [ValidateAntiForgeryToken]

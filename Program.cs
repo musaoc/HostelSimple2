@@ -4,7 +4,7 @@ using HostelSimple2.Models; // Update with your actual namespace
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+buildeasdasdasdasdr.Services.AddControllersWithViews();
 
 // Configure the DbContext with SQL Server
 builder.Services.AddDbContext<HostelContext>(options =>
@@ -30,3 +30,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+// here edited and push by umairm m m
